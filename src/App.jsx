@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { useState } from 'react';
 
-const API_URL = 'http://localhost:3000/api/weather'
+const API_URL = 'https://pronostico-api.facyndev.repl.co/api/weather'
 
 function App() {
 
